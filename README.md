@@ -4,16 +4,16 @@
 
 **<--You can find me**
 <a href="https://www.instagram.com/khrizoto/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Christopher Soto's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> 
 <a href="https://discord.gg/Christopher Soto#3743">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Christopher Soto's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> 
 <a href="https://twitter.com/csv_81">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Christopher Soto | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> 
 <a href="https://linkedin.com/in/christopher-soto-15b68431">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Christopher Soto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 
 -
@@ -23,9 +23,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Sahlman Seafoods of Nicaragua, S. A. as Financial Management 
-- 🌱 I’m currently learning Artificial Intelligence and Data Science at UNI - Nicaragua
-- 👯 I’m looking to collaborate on Data Engineering Latam
+- 🔭 I’m currently working on `Sahlman Seafoods of Nicaragua, S. A.` as `Financial Management` 
+- 🌱 I’m currently learning `Artificial Intelligence and Data Science` at `UNI - Nicaragua`
+- 👯 I’m looking to collaborate on `Data Engineering Latam` <a src="https://beacons.ai/dataengineeringlatam"<a/>
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
