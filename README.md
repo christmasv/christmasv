@@ -4,7 +4,7 @@
 ---
  ✨ _special_ ✨ repository because its `README.md` 
 
-**<--You can find me**
+[⏩ &nbsp; and many more at my web side](https://khrizoto.wordpress.com/)**<--**
 <a href="https://www.instagram.com/khrizoto/">
   <img align="left" alt="Christopher Soto's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> 
@@ -18,7 +18,7 @@
   <img align="left" alt="Christopher Soto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> 
 
--
+---
 
 - <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -34,13 +34,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
 
 📈 **My github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=christmasv&show_icons=true&theme=gotham" alt="christmasv" />
  
+---
+ 
 
- [⏩ &nbsp; and many more my web side](https://khrizoto.wordpress.com/)
  <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
