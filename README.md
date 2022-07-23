@@ -33,8 +33,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
-
 📈 **My github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=christmasv&show_icons=true&theme=gotham" alt="christmasv" />
+ 
+
+ [⏩ &nbsp; and many more my web side](https://khrizoto.wordpress.com/)
+ <details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+  
+
+ 
+
+  </details>
+ 
+ <details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+  
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  
+  
+  </details>
+  
+ 
