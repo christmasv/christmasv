@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-**Christopher Soto Vallejos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Christopher Soto Vallejos** is a ✨ _special_ ✨ repository because its `README.md` 
 
+**<--You can find me**
 <a href="https://www.instagram.com/khrizoto/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> 
