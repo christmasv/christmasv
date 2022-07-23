@@ -1,19 +1,24 @@
 ### Hi there 👋
 
-**christmasv/christmasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Christopher Soto Vallejos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <a href="https://www.instagram.com/khrizoto/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
+</a> 
+<a href="https://discord.gg/Christopher Soto#3743">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
+</a> 
+<a href="https://twitter.com/csv_81">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+</a> 
+<a href="https://linkedin.com/in/christopher-soto-15b68431">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> 
+
+-
+
+- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 Here are some ideas to get you started:
 
@@ -26,3 +31,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
+📈 **My github stats**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=christmasv&show_icons=true&theme=gotham" alt="christmasv" />
