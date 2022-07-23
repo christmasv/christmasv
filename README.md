@@ -36,18 +36,21 @@ Here are some ideas to get you started:
 
 ---
 
-📈 **My github stats**
+<h2>📈 My github stats</h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=christmasv&show_icons=true&theme=gotham" alt="christmasv" />
  
 ---
- 
 
+<h2>Latest Tweets</h2>
+<p><a href="https://twitter.com/csv_81"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=csv_81&amp;layout=wide" alt="github-readme-twitter"></a></p>
+
+
+---
  <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
   
-
  
 
   </details>
