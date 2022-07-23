@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm **Christopher Soto Vallejos**👋
 
-**Christopher Soto Vallejos** is a ✨ _special_ ✨ repository because its `README.md` 
+ ✨ _special_ ✨ repository because its `README.md` 
 
 **<--You can find me**
 <a href="https://www.instagram.com/khrizoto/">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `Sahlman Seafoods of Nicaragua, S. A.` as `Financial Management` 
 - 🌱 I’m currently learning `Artificial Intelligence and Data Science` at `UNI - Nicaragua`
-- 👯 I’m looking to collaborate on `Data Engineering Latam` <a src="https://beacons.ai/dataengineeringlatam"<a/>
+- 👯 I’m looking to collaborate on `Data Engineering Latam` https://beacons.ai/dataengineeringlatam
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
