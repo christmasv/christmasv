@@ -38,8 +38,10 @@ Here are some ideas to get you started:
 
 <h2>📈 My github stats</h2>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=christmasv&show_icons=true&theme=gotham" alt="christmasv" />
- 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chrismasv&color=brightgreen" alt="chrismasv" />
+<p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api?username=christmasv&show_icons=true&theme=gotham" alt="christmasv"/>
+<p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christmasv&theme=merko&layout=compact&hide_langs_below=1"/>
+
 ---
 
 <h2>Latest Tweets</h2>
