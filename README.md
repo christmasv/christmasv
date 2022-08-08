@@ -58,21 +58,14 @@ Here are some ideas to get you started:
 
 
 ---
- <details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-  
- 
 
-  </details>
- 
- <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   
+  ![powerbi-svgrepo-com](https://user-images.githubusercontent.com/5433084/183439305-8304a4a3-18c1-4b15-8bd3-254bd1168da9.svg)
   
-  </details>
+  ![excel-svgrepo-com](https://user-images.githubusercontent.com/5433084/183439672-21c11c60-61bc-442d-a551-3470f79327a9.svg)
   
  
